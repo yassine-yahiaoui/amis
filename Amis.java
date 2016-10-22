@@ -8,7 +8,7 @@ import java.util.Scanner;
 public class Amis {
 
     public static void main(String[] args) {
-        String name;
+        String name;//pourquoi toute ces variables il suffit d'employer une pour la lecture 
         String nat;
         int age;
         Scanner s= new Scanner(System.in);
